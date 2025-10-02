@@ -15,6 +15,12 @@
     gap: 35px;
   }
 
+#home {
+	position: absolute;
+	top: 110%;
+	font-size: 60px;
+}
+
 h1 {
 	position: absolute;
 	top: 10%;
@@ -642,3 +648,4 @@ h1 {
   }
 
  
+
